@@ -1,0 +1,122 @@
+:root{
+    --blue:#239BD8;
+    --grey-400:#7C8DB0;
+}
+body{
+    height: 156.1875rem;
+    min-width: 58rem;
+}
+header{
+    width: 100%;
+    flex-wrap: wrap;
+    background: #239BD8;
+    padding: 2rem 4rem;
+    
+}
+h1{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+.searchbar span{
+    color: #FFF;
+    font-family: Nunito Sans;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Nunito+Sans:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+.nunito{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.mont{
+    font-family: 'Montserrat', sans-serif;
+
+}
+footer span{
+    color: #A1A1A1;
+text-align: center;
+font-family: Montserrat;
+font-size: 1.5rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.pattern{
+    width: 26.74256rem;
+    height: 0.0625rem;
+    background: #FFF;
+}
+.pe{
+    color: var(--blue);
+    font-family: Nunito Sans;
+    font-size: 2.25rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+
+}
+h2{
+    color: #239BD8;
+    text-align: center;
+    font-family: Nunito Sans;
+    font-size: 2.25rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 3.125rem; /* 138.889% */
+}
+.recomen_span{
+    color: #434343;
+    font-family: Nunito Sans;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+
+}
+h3{
+    flex: 1 0 0;
+    font-family: Nunito Sans;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: linear-gradient(180deg, #1E9781 0%, #22C3A6 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+
+}
+p{
+    margin-top: 1rem;
+    color: var(--grey-400, #7C8DB0);
+    font-family: Nunito Sans;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+.mainpartdiv{
+    padding: 1.25rem;
+    
+    margin-bottom: 1rem;
+    width: 23.4375rem;
+    height: 14.5625rem;
+    flex-shrink: 0;
+    border-radius: 0.625rem;
+    background: #F6F9FF;
+    box-shadow: 0px 12px 24px 2px rgba(185, 185, 185, 0.05), 0px 24px 60px 0px rgba(106, 106, 106, 0.05), 0px 2px 4px 0px rgba(0, 0, 0, 0.10);}
+@media screen and {max-width: 2rem;
+    
+}
